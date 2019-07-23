@@ -2,6 +2,7 @@
 
 A Clojure(Script) library providing specs and generators for java.time
 
+[![Clojars Project](https://img.shields.io/clojars/v/time-specs.svg)](https://clojars.org/time-specs)
 
 ## Related Libraries
 
